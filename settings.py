@@ -1,0 +1,9 @@
+# Configurations
+PDF_CAUSE_LISTS_URL = 'http://clists.nic.in/ddir/PDFCauselists'
+HIGHT_COURT_NAME = 'madras'
+HIGHT_COURT_CITY = 'chennai'
+DAILY__NAME = '2017/Oct/013'
+EXTENSION_PDF = '.pdf'
+DATE = '27102017'
+
+URL = [PDF_CAUSE_LISTS_URL, HIGHT_COURT_NAME, DAILY__NAME + DATE + EXTENSION_PDF]
